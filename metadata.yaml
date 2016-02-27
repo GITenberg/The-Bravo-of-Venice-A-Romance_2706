@@ -1,0 +1,44 @@
+_repo: The-Bravo-of-Venice-A-Romance_2706
+contributor:
+  creator:
+    editor:
+      agent_name: Morley, Henry
+      birthdate: 1822
+      deathdate: 1894
+      gutenberg_agent_id: '1355'
+      url: http://www.gutenberg.org/2009/agents/1355
+      wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+  translator:
+    agent_name: Lewis, M. G. (Matthew Gregory)
+    aliases:
+    - Lewis, Matthew Gregory
+    - Lewis, Monk
+    birthdate: 1775
+    deathdate: 1818
+    gutenberg_agent_id: '315'
+    url: http://www.gutenberg.org/2009/agents/315
+    wikipedia: http://en.wikipedia.org/wiki/Matthew_Gregory_Lewis
+creator:
+  author:
+    agent_name: Zschokke, Heinrich
+    alias: Zschokke, Johann Heinrich Daniel
+    birthdate: 1771
+    deathdate: 1848
+    gutenberg_agent_id: '5011'
+    url: http://www.gutenberg.org/2009/agents/5011
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_Zschokke
+description: Translation of Abällino, der grosse Bandit.
+gutenberg_issued: '2001-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2706'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Venice (Italy) -- Fiction'
+- !lcsh 'Gothic fiction (Literary genre)'
+- !lcc 'PT'
+title: 'The Bravo of Venice: A Romance'
+url: http://www.gutenberg.org/ebooks/2706
