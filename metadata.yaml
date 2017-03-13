@@ -1,5 +1,5 @@
 _repo: The-Bravo-of-Venice-A-Romance_2706
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
@@ -19,6 +19,9 @@ contributor:
     gutenberg_agent_id: '315'
     url: http://www.gutenberg.org/2009/agents/315
     wikipedia: http://en.wikipedia.org/wiki/Matthew_Gregory_Lewis
+covers:
+- cover_type: archival
+  image_path: 2706-h/images/coverb.jpg
 creator:
   author:
     agent_name: Zschokke, Heinrich
@@ -29,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5011
     wikipedia: http://en.wikipedia.org/wiki/Heinrich_Zschokke
 description: Translation of Abällino, der grosse Bandit.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2706#The-Bravo-of-Venice-A-Romance
 gutenberg_issued: '2001-07-01'
 gutenberg_type: Text
 identifiers:
