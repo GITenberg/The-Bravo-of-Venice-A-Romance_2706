@@ -1,5 +1,5 @@
 _repo: The-Bravo-of-Venice-A-Romance_2706
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -46,5 +46,6 @@ subjects:
 - !lcsh 'Venice (Italy) -- Fiction'
 - !lcsh 'Gothic fiction (Literary genre)'
 - !lcc 'PT'
+- GITenberg
 title: 'The Bravo of Venice: A Romance'
 url: http://www.gutenberg.org/ebooks/2706
